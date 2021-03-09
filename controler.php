@@ -2,9 +2,6 @@
 
 print("hello world");
 
-$foo = "nael";
-
-
-$nael = "hello world";
+$foo = "nael"
 
 ?>
